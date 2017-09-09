@@ -49,5 +49,5 @@ if confHostname:
                     #print (i)        
                     fp.write (i+'\n')               
         fp.close()
-        os.system('sudo shutdown -r now')
-        
+        #os.system('sudo shutdown -r now')
+        os.system('hostnamectl set-hostname ' + confHostname)
