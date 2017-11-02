@@ -1,8 +1,6 @@
 {
 	  "conf": {
 	          "74:DA:38:C9:AA:04": "rbs201",
-		  "74:DA:38:C9:B0:96": "rbs202",
-	          "74:DA:38:C9:AA:04": "rbs201",
 	          "74:DA:38:C9:B0:96": "23041",		##Mini Wlan-Stick
 		  "b8:27:eb:76:b5:66": "23041",	##OnBoard
 		  "74:DA:38:C9:AB:2D": "rbs8001", 	##Mini Wlan-Stick
