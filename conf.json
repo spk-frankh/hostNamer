@@ -2,5 +2,43 @@
 	  "conf": {
 	          "74:DA:38:C9:AA:04": "rbs201",
 		  "74:DA:38:C9:B0:96": "rbs202",
-      		  "33:44:55:66:77:88": "rbs999"}
+	          "74:DA:38:C9:AA:04": "rbs201",
+	          "74:DA:38:C9:B0:96": "23041",		##Mini Wlan-Stick
+		  "b8:27:eb:76:b5:66": "23041",	##OnBoard
+		  "74:DA:38:C9:AB:2D": "rbs8001", 	##Mini Wlan-Stick
+		  "B8:27:EB:9E:AC:67": "rbs8001", ## OnBoard -- Ab Hier
+		  "b8:27:eb:cb:f9:32": "rbs8001", ##Ethernet
+		  "74:da:38:c9:ab:6d": "00",	##Mini Wlan-Stick
+		  "b8:27:eb:82:43:52": "00", ##OnBoard
+		  "b8:27:eb:d7:16:07": "00", ##Ethernet
+		  "74:da:38:c9:ab:0c": "01",	##Mini Wlan-Stick
+		  "b8:27:eb:57:03:c2": "01", ##OnBoard
+		  "b8:27:eb:02:56:97": "01", ##Ethernet
+		  "74:da:38:c9:ab:0b": "02",	##Mini Wlan-Stick
+		  "b8:27:eb:f6:b8:0a": "02", ##OnBoard
+		  "b8:27:eb:a3:ed:5f": "02", ##Ethernet
+		  "74:da:38:c9:ab:13": "03",	##Mini Wlan-Stick
+		  "b8:27:eb:51:ff:63": "03", ##OnBoard
+		  "b8:27:eb:04:aa:36": "03", ##Ethernet
+		  "74:da:38:c9:ab:1e": "04",	##Mini Wlan-Stick
+		  "b8:27:eb:0e:d6:de": "04", ##OnBoard
+		  "b8:27:eb:5b:83:8b": "04", ##Ethernet
+		  "74:da:38:c9:ab:58": "05",	##Mini Wlan-Stick
+		  "b8:27:eb:5e:9d:44": "05", ##OnBoard
+		  "b8:27:eb:0b:c8:11": "05", ##Ethernet
+		  "74:da:38:c9:ab:20": "06", 	##Mini Wlan-Stick
+		  "b8:27:eb:74:40:d9": "06", ##OnBoard
+		  "b8:27:eb:21:15:8c": "06", ##Ethernet
+		  "74:da:38:c9:ab:0e": "07", 	##Mini Wlan-Stick
+		  "b8:27:eb:46:41:dd": "07", ##OnBoard
+		  "b8:27:eb:13:14:88": "07", ##Ethernet
+		  "74:da:38:c9:ab:28": "08",	##Mini Wlan-Stick
+		  "b8:27:eb:39:b3:8b": "08", ##OnBoard
+		  "b8:27:eb:6c:e6:de": "08", ##Ethernet
+		  "74:da:38:c9:ab:38": "09",	##Mini Wlan-Stick
+		  "b8:27:eb:64:f9:a6": "09", ##OnBoard
+		  "b8:27:eb:31:ac:f3": "09", ##Ethernet
+		  "74:da:38:c9:ab:17": "0A",	##Mini Wlan-Stick
+		  "b8:27:eb:ac:e0:77": "0A", ##OnBoard
+		  "b8:27:eb:f9:b5:22": "0A", ##Ethernet}
 }
