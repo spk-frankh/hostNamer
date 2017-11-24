@@ -2,42 +2,42 @@
 	  "conf": {
 	          "74:DA:38:C9:AA:04": "rbs201",
 	          "74:DA:38:C9:AA:04": "rbs201",
-	          "74:DA:38:C9:B0:96": "23041",		##Mini Wlan-Stick
-		  "b8:27:eb:76:b5:66": "23041",	##OnBoard
-		  "74:DA:38:C9:AB:2D": "rPI 207", 	##Mini Wlan-Stick
-		  "B8:27:EB:9E:AC:67": "rPI 207", ## OnBoard -- Ab Hier
-		  "b8:27:eb:cb:f9:32": "rPI 207", ##Ethernet
-		  "74:da:38:c9:ab:6d": "rPI 208",	##Mini Wlan-Stick
-		  "b8:27:eb:82:43:52": "rPI 208", ##OnBoard
-		  "b8:27:eb:d7:16:07": "rPI 208", ##Ethernet
-		  "74:da:38:c9:ab:0c": "rPI 210",	##Mini Wlan-Stick
-		  "b8:27:eb:57:03:c2": "rPI 210", ##OnBoard
-		  "b8:27:eb:02:56:97": "rPI 210", ##Ethernet
-		  "74:da:38:c9:ab:0b": "rPI 302",	##Mini Wlan-Stick
-		  "b8:27:eb:f6:b8:0a": "rPI 302", ##OnBoard
-		  "b8:27:eb:a3:ed:5f": "rPI 302", ##Ethernet
-		  "74:da:38:c9:ab:13": "rPI 303",	##Mini Wlan-Stick
-		  "b8:27:eb:51:ff:63": "rPI 303", ##OnBoard
-		  "b8:27:eb:04:aa:36": "rPI 303", ##Ethernet
-		  "74:da:38:c9:ab:1e": "rPI 304",	##Mini Wlan-Stick
-		  "b8:27:eb:0e:d6:de": "rPI 304", ##OnBoard
-		  "b8:27:eb:5b:83:8b": "rPI 304", ##Ethernet
-		  "74:da:38:c9:ab:58": "rPI 308",	##Mini Wlan-Stick
-		  "b8:27:eb:5e:9d:44": "rPI 308", ##OnBoard
-		  "b8:27:eb:0b:c8:11": "rPI 308", ##Ethernet
-		  "74:da:38:c9:ab:20": "rPI 309", 	##Mini Wlan-Stick
-		  "b8:27:eb:74:40:d9": "rPI 309", ##OnBoard
-		  "b8:27:eb:21:15:8c": "rPI 309", ##Ethernet
-		  "74:da:38:c9:ab:0e": "rPI 206", 	##Mini Wlan-Stick
-		  "b8:27:eb:46:41:dd": "rPI 206", ##OnBoard
-		  "b8:27:eb:13:14:88": "rPI 206", ##Ethernet
-		  "74:da:38:c9:ab:28": "rPI 310",	##Mini Wlan-Stick
-		  "b8:27:eb:39:b3:8b": "rPI 310", ##OnBoard
-		  "b8:27:eb:6c:e6:de": "rPI 310", ##Ethernet
-		  "74:da:38:c9:ab:38": "rPI 312",	##Mini Wlan-Stick
-		  "b8:27:eb:64:f9:a6": "rPI 312", ##OnBoard
-		  "b8:27:eb:31:ac:f3": "rPI 312", ##Ethernet
-		  "74:da:38:c9:ab:17": "rPI 202",	##Mini Wlan-Stick
-		  "b8:27:eb:ac:e0:77": "rPI 202", ##OnBoard
-		  "b8:27:eb:f9:b5:22": "rpI 202", ##Ethernet}
+	          "74:DA:38:C9:B0:96": "23041",
+		  "b8:27:eb:76:b5:66": "23041",
+		  "74:DA:38:C9:AB:2D": "rbs207",
+		  "B8:27:EB:9E:AC:67": "rbs207",
+		  "b8:27:eb:cb:f9:32": "rbs207",
+		  "74:da:38:c9:ab:6d": "rbs208",
+		  "b8:27:eb:82:43:52": "rbs208",
+		  "b8:27:eb:d7:16:07": "rbs208",
+		  "74:da:38:c9:ab:0c": "rbs210",
+		  "b8:27:eb:57:03:c2": "rbs210",
+		  "b8:27:eb:02:56:97": "rbs210",
+		  "74:da:38:c9:ab:0b": "rbs302",
+		  "b8:27:eb:f6:b8:0a": "rbs302",
+		  "b8:27:eb:a3:ed:5f": "rbs302",
+		  "74:da:38:c9:ab:13": "rbs303",
+		  "b8:27:eb:51:ff:63": "rbs303",
+		  "b8:27:eb:04:aa:36": "rbs303",
+		  "74:da:38:c9:ab:1e": "rbs304",
+		  "b8:27:eb:0e:d6:de": "rbs304",
+		  "b8:27:eb:5b:83:8b": "rbs304",
+		  "74:da:38:c9:ab:58": "rbs308",
+		  "b8:27:eb:5e:9d:44": "rbs308",
+		  "b8:27:eb:0b:c8:11": "rbs308",
+		  "74:da:38:c9:ab:20": "rbs309",
+		  "b8:27:eb:74:40:d9": "rbs309",
+		  "b8:27:eb:21:15:8c": "rbs309",
+		  "74:da:38:c9:ab:0e": "rbs206",
+		  "b8:27:eb:46:41:dd": "rbs206",
+		  "b8:27:eb:13:14:88": "rbs206",
+		  "74:da:38:c9:ab:28": "rbs310",
+		  "b8:27:eb:39:b3:8b": "rbs310",
+		  "b8:27:eb:6c:e6:de": "rbs310",
+		  "74:da:38:c9:ab:38": "rbs312",
+		  "b8:27:eb:64:f9:a6": "rbs312",
+		  "b8:27:eb:31:ac:f3": "rbs312",
+		  "74:da:38:c9:ab:17": "rbs202",
+		  "b8:27:eb:ac:e0:77": "rbs202",
+		  "b8:27:eb:f9:b5:22": "rbs202",}
 }
