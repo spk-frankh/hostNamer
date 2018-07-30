@@ -40,6 +40,8 @@
                   "B8:27:EB:F9:B5:22": "rbs202",
                   "74:DA:38:2E:4A:E5": "rbs501",
                   "74:DA:38:2E:4A:C8": "rbs502",
+		  "74:DA:38:EC:14:CF": "rbs211wlan",
+		  "74:DA:38:EC:14:CF": "rbs211eth",
 		  "B8:27:EB:23:E0:33": "BLUEeth0",
 		  "74:DA:38:C9:B0:96": "BLUEwlan0",
                   "74:DA:38:2E:4A:D2": "rbs401"}
