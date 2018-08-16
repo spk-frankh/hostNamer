@@ -52,8 +52,8 @@
 		  "B8:27:EB:55:46:A9": "rbs307eth0",
 		  "74:DA:38:EC:14:66": "rbs307wlan0",
 		  "B8:27:EB:BD:C6:9F": "rbs306eth0",
-		  "74:DA:38:EC:14:CC": "rbs306wlan0"
-		  "":"rbs211eth0";
-		  "":"rbs211wlan0";
+		  "74:DA:38:EC:14:CC": "rbs306wlan0",
+		  "": "rbs211eth0",
+		  "": "rbs211wlan0",
 	  }
 }
