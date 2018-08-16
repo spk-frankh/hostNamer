@@ -43,15 +43,17 @@
 		  "B8:27:EB:23:E0:33": "BLUEeth0",
 		  "74:DA:38:C9:B0:96": "BLUEwlan0",
                   "74:DA:38:2E:4A:D2": "rbs401",
-	  	  "B8:27:EB:ED:D1:92": "1eth0",
-		  "74:DA:38:EC:14:CF": "1wlan0",
-		  "B8:27:EB:91:D8:DF": "2eth0",
-		  "74:DA:38:EC:14:60": "2wlan0",
-		  "B8:27:EB:A0:DA:05": "3eth0",
-		  "74:DA:38:EC:14:62": "3wlan0",
-		  "B8:27:EB:55:46:A9": "5eth0",
-		  "74:DA:38:EC:14:66": "5wlan0",
-		  "B8:27:EB:BD:C6:9F": "4eth0",
-		  "74:DA:38:EC:14:CC": "4wlan0"
+	  	  "B8:27:EB:ED:D1:92": "rbs312eth0",
+		  "74:DA:38:EC:14:CF": "rbs312wlan0",
+		  "B8:27:EB:91:D8:DF": "rbs311eth0",
+		  "74:DA:38:EC:14:60": "rbs311wlan0",
+		  "B8:27:EB:A0:DA:05": "rbs305eth0",
+		  "74:DA:38:EC:14:62": "rbs305wlan0",
+		  "B8:27:EB:55:46:A9": "rbs307eth0",
+		  "74:DA:38:EC:14:66": "rbs307wlan0",
+		  "B8:27:EB:BD:C6:9F": "rbs306eth0",
+		  "74:DA:38:EC:14:CC": "rbs306wlan0"
+		  "":"rbs211eth0";
+		  "":"rbs211wlan0";
 	  }
 }
