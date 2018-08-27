@@ -25,7 +25,9 @@ def getMac(interface):
 
 def checkLink (interface):
   
-  hostname="www.google.de"
+  #hostname="www.google.de"
+  # proxy Schulnetz 
+  hostname="172.19.42.1"
   osCmd = 'ping -c1 -w1 -4 -I' + interface + ' ' + hostname + ' > /dev/null'
   
   #print (osCmd)
